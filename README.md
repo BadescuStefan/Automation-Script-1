@@ -11,6 +11,7 @@ The automation script embedded within this project undertakes the following task
 - Transfers a designated file into the established directory.
 
 **Usage**
+
 To employ the automation script, adhere to the ensuing steps:
 
 1. Clone this repository ontot your local machine.
