@@ -3,14 +3,14 @@ In this repository, you'll find a simple Dev0ps automation project written in Ba
 
 # Dev0ps Automation Project
 
-**#Description**
+**Description**
 
 The automation script embedded within this project undertakes the following taska
 
 - Establishes a directory if one isn't present.
 - Transfers a designated file into the established directory.
 
-**##Usage**
+**Usage**
 To employ the automation script, adhere to the ensuing steps:
 
 1. Clone this repository ontot your local machine.
